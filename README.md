@@ -17,6 +17,7 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <p>:house: Design and Frontend Development at WeAreLiving</p>
   <p>:foggy: Personal Art Projects</p>
   <p>:technologist: p5.js Projects</p>
+  <p>:fountain_pen: Building a Personal Blog</p>
 </details>
 
 <details>
