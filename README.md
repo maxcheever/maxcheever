@@ -14,7 +14,6 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <p>:house: Design and Full Stack Development at WeAreLiving</p>
   <p>:foggy: Personal Art Projects</p>
   <p>:technologist: Google Foobar</p>
-  <p>:fountain_pen: Building a Personal Blog</p>
 </details>
 
 <img src="https://maxcheever.github.io/max-cheever/images/shape.png" width="" height="" align="center">
