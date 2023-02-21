@@ -1,24 +1,49 @@
 # Welcome!
 ### About Me
-Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. I'm currently in my first year at The Pennsylvania State University pursuing a major in computer science, minors in art and math, and a certificate in digital art. Feel free to reach out to me through [my university email](mailto:mpc6231@psu.edu?subject=[GitHub]%20Max%20Cheever) or [my personal email](mailto:cheevermax@gmail.com)! Click any of the sentences below to learn more about me!
+Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. I'm currently in my second year at The Pennsylvania State University pursuing a major in computer science, minors in art (new media) and mathematics, and a certificate in digital art. Feel free to reach out to me through [my university email](mailto:mpc6231@psu.edu?subject=[GitHub]%20Max%20Cheever) or [my personal email](mailto:cheevermax@gmail.com)! Click any of the sentences below to learn more about me!
 <details>
   <summary>My Interests...</summary>
   <p></p>
-  <p>:infinity: Mathematics</p>
-  <p>:foggy: Art</p>
+  <p>:infinity: Mathematics and Computer Science</p>
+  <p>:foggy: Contemporary Art</p>
   <p>:technologist: Programming</p>
 </details>
 <details>
   <summary>Working On/Experimenting With...</summary>
   <p></p>
   <p>:house: Design and Full Stack Development at WeAreLiving</p>
-  <p>:foggy: Personal Art Projects</p>
+  <p>:foggy: Personal Art</p>
   <p>:technologist: Google Foobar</p>
+</details>
+<details>
+  <summary>Some Stuff I Think Is Cool (Blogs, Books, etc)...</summary>
+  <p></p>
+  <a href="https://esoteric.codes">:computer: Esoteric Codes by Daniel Temkin (Blog)</a>
+  <br>
+  <br>
+  <a href="https://xkcd.com/archive/">:speech_balloon: XKCD by Randall Munroe (Webcomic)</a>
+  <br>
+  <br>
+  <a href="https://theswissbay.ch/pdf/Gentoomen%20Library/Extra/Douglas_R._Hofstadter-Gödel%2C_Escher%2C_Bach__An_Eternal_Golden_Braid_%28Twentieth-Anniversary_Edition%29-Basic_Books%281999%29.pdf">:blue_book: Gödel, Escher, Bach: An Eternal Golden Braid By Douglas R. Hofstadter (Book)</a>
+  <br>
+  <br>
+  <a href="https://www.instagram.com/daturahex/?hl=en">:crystal_ball: Daturahex (Artist)</a>
+  <br>
+  <br>
+  <a href="http://vattay.web.elte.hu/lectures/ChaosTheory/James%20Gleick%20-%20Chaos.%20Making%20a%20new%20science.pdf">:butterfly: Chaos: Making a New Science by James Gleick (Book)</a>
+  <br>
+  <br>
+  <a href="https://en.wikipedia.org/wiki/Hans_Haacke">:white_square_button: Hans Haacke (Artist)</a>
+  <br>
+  <br>
+  <a href="https://en.wikipedia.org/wiki/Sol_LeWitt">:art: Sol LeWitt (Artist)</a>
+  <br>
+  <br>
+  <a href="https://refikanadol.com">:fireworks: Refik Anadol (Artist)</a>
 </details>
 
 <img src="https://maxcheever.github.io/max-cheever/images/shape.png" width="" height="" align="center">
 
-[![@maxcheever's Holopin board](https://holopin.io/api/user/board?user=maxcheever)](https://holopin.io/@maxcheever)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
