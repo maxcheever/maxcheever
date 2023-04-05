@@ -46,6 +46,9 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <br>
   <br>
   <a href="https://www.nathaliemiebach.com">:jigsaw: Nathalie Miebach (Artist)</a>
+  <br>
+  <br>
+  <a href="https://sougwen.com">:robot: Sougwen 愫君 Chung (Artist)</a>
 </details>
 
 <img src="https://maxcheever.github.io/max-cheever/images/shape.png" width="" height="" align="center">
