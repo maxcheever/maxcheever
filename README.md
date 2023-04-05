@@ -40,6 +40,12 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <br>
   <br>
   <a href="https://refikanadol.com">:fireworks: Refik Anadol (Artist)</a>
+  <br>
+  <br>
+  <a href="http://joelericswanson.com">:black_square_button: Joel Swanson (Artist)</a>
+  <br>
+  <br>
+  <a href="https://www.nathaliemiebach.com">:jigsaw: Nathalie Miebach (Artist)</a>
 </details>
 
 <img src="https://maxcheever.github.io/max-cheever/images/shape.png" width="" height="" align="center">
