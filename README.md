@@ -51,6 +51,8 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <a href="https://sougwen.com">:robot: Sougwen 愫君 Chung (Artist)</a>
 </details>
 
+[![Top Langs](https://github-readme-stats-eta-orcin.vercel.app/api/top-langs/?username=maxcheever&exclude_repo=mern-exercise-tracker,practice-portfolio,chatcord,WeAreLiving-practice,counter-app,p5&langs_count=10&size_weight=0.1&count_weight=0.9&layout=compact&bg_color=00000000&hide-title=true&hide-border=true)](https://github-readme-stats-eta-orcin.vercel.app)
+
 <img src="https://maxcheever.github.io/max-cheever/images/shape.png" width="" height="" align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
