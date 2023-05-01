@@ -51,7 +51,9 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <a href="https://sougwen.com">:robot: Sougwen 愫君 Chung (Artist)</a>
 </details>
 
-[![Top Langs](https://github-readme-stats-eta-orcin.vercel.app/api/top-langs/?username=maxcheever&exclude_repo=mern-exercise-tracker,practice-portfolio,chatcord,WeAreLiving-practice,counter-app,p5&langs_count=8&size_weight=0.1&count_weight=0.9&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&card_width=1175)](https://github-readme-stats-eta-orcin.vercel.app)
+[![Top Langs](https://github-readme-stats-eta-orcin.vercel.app/api/top-langs/?username=maxcheever&exclude_repo=mern-exercise-tracker,practice-portfolio,chatcord,WeAreLiving-practice,counter-app,p5&langs_count=8&size_weight=0.1&count_weight=0.9&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&card_width=300)](https://github-readme-stats-eta-orcin.vercel.app)
+
+<!---
 
 <img src="https://maxcheever.github.io/max-cheever/images/shape.png" width="" height="" align="center">
 
@@ -71,3 +73,4 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+-->
