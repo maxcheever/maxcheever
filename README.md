@@ -11,9 +11,11 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
 <details>
   <summary>Working On/Experimenting With...</summary>
   <p></p>
-  <p>:house: Design and Full Stack Development at WeAreLiving</p>
+  <p>:office_worker: Software Engineering Internship at Tyler Technologies</p>
   <p>:foggy: Personal Art</p>
   <p>:technologist: Google Foobar</p>
+  <p>:teacher: Summer Courses in Art History, Writing, Speaking, and Statistics</p>
+  <p>:white_check_mark: Grading for CMPSC 132 - Data Structures at Penn State</p>
 </details>
 <details>
   <summary>Some Stuff I Think Is Cool (Blogs, Books, etc)...</summary>
