@@ -2,14 +2,14 @@
 ### About Me
 Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. I'm currently in my third year at The Pennsylvania State University pursuing a B.S. in computer science and a B.A. in art (new media), a minor in mathematics, and a certificate in digital art. Feel free to reach out to me through [my university email](mailto:mpc6231@psu.edu?subject=[GitHub]%20Max%20Cheever) or [my personal email](mailto:cheevermax@gmail.com)! Click any of the sentences below to learn more about me!
 <details>
-  <summary>My Interests...</summary>
+  <summary><b>My Interests...</b></summary>
   <p></p>
   <p>:infinity: Mathematics and Computer Science</p>
   <p>:foggy: Contemporary Art</p>
   <p>:technologist: Programming</p>
 </details>
 <details>
-  <summary>Working On/Experimenting With...</summary>
+  <summary><b>Working On/Experimenting With...</b></summary>
   <p></p>
   <p>:office_worker: Software Engineering Internship at Tyler Technologies</p>
   <p>:foggy: Personal Art</p>
@@ -18,7 +18,7 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <p>:white_check_mark: Grading for CMPSC 132 - Data Structures at Penn State</p>
 </details>
 <details>
-  <summary>Some Stuff I Think Is Cool (Blogs, Books, etc)...</summary>
+  <summary><b>Some Stuff I Think Is Cool (Blogs, Books, etc)...</b></summary>
   <p></p>
   <a href="https://esoteric.codes">:computer: Esoteric Codes by Daniel Temkin (Blog)</a>
   <br>
