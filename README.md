@@ -47,7 +47,7 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <a href="https://sougwen.com">:robot: Sougwen 愫君 Chung (Artist)</a>
 </details>
 
-[![Language Stats](https://github-readme-stats-eta-orcin.vercel.app/api/top-langs/?username=maxcheever&exclude_repo=mern-exercise-tracker,practice-portfolio,chatcord,WeAreLiving-practice,counter-app,p5&langs_count=9&size_weight=0.1&count_weight=0.9&layout=donut-vertical&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&card_width=300&hide=html,css)](https://github-readme-stats-eta-orcin.vercel.app)
+[![Language Stats](https://github-readme-stats-eta-orcin.vercel.app/api/top-langs/?username=maxcheever&exclude_repo=mern-exercise-tracker,practice-portfolio,chatcord,WeAreLiving-practice,counter-app,p5&langs_count=9&size_weight=0.1&count_weight=0.9&layout=donut&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&card_width=300&hide=html,css)](https://github-readme-stats-eta-orcin.vercel.app)
 
 <!---
 [![](https://metrics.lecoq.io/maxcheever?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=America%2FNew_York)](https://metrics.lecoq.io/)
