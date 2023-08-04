@@ -47,28 +47,4 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <a href="https://sougwen.com">:robot: Sougwen 愫君 Chung (Artist)</a>
 </details>
 
-[![Language Stats](https://github-readme-stats-eta-orcin.vercel.app/api/top-langs/?username=maxcheever&exclude_repo=mern-exercise-tracker,practice-portfolio,chatcord,WeAreLiving-practice,counter-app,p5&langs_count=9&size_weight=0.1&count_weight=1&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&card_width=300&hide=html,css)](https://github-readme-stats-eta-orcin.vercel.app)
-
-<!---
-[![](https://metrics.lecoq.io/maxcheever?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=America%2FNew_York)](https://metrics.lecoq.io/)
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxcheever&theme=transparent)
-<img src="https://maxcheever.github.io/max-cheever/images/shape.png" width="" height="" align="center">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
-![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
-![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
--->
+[![Language Stats](https://github-readme-stats-eta-orcin.vercel.app/api/top-langs/?username=maxcheever&exclude_repo=mern-exercise-tracker,practice-portfolio,chatcord,WeAreLiving-practice,counter-app,p5&langs_count=9&size_weight=0.1&count_weight=1&layout=donut&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&card_width=300&hide=html,css)](https://github-readme-stats-eta-orcin.vercel.app)
