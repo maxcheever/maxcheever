@@ -12,7 +12,7 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <summary><b>Working On/Experimenting With...</b></summary>
   <p></p>
   <p>:office_worker: Software Engineering Internship at Tyler Technologies</p>
-  <p>:foggy: Personal Art</p>
+  <p>:foggy: Learning to wok with openFrameworks</p>
   <p>:technologist: Google Foobar</p>
   <p>:teacher: Summer Courses in Art History, Writing, Speaking, and Statistics</p>
   <p>:white_check_mark: Grading for CMPSC 132 - Data Structures and LA(ing?) for CMPSC 131 - Intro to Computation at Penn State</p>
