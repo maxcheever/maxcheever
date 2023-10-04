@@ -1,6 +1,6 @@
 # Welcome!
 ### About Me
-Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. I'm currently entering my third year at The Pennsylvania State University pursuing a B.S. in computer science and a B.A. in art (new media), a minor in mathematics, and a certificate in digital art. Feel free to reach out to me through [my university email](mailto:mpc6231@psu.edu?subject=[GitHub]%20Max%20Cheever) or [my personal email](mailto:cheevermax@gmail.com)! Click any of the sentences below to learn more about me!
+Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. I'm currently entering my third year at The Pennsylvania State University pursuing a B.S. in computer science and a B.A. in art (new media), and a minor in mathematics. Feel free to reach out to me through [my university email](mailto:mpc6231@psu.edu?subject=[GitHub]%20Max%20Cheever) or [my personal email](mailto:cheevermax@gmail.com)! Click any of the sentences below to learn more about me!
 <details>
   <summary><b>My Interests...</b></summary>
   <p></p>
