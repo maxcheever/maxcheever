@@ -33,13 +33,13 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <a href="http://vattay.web.elte.hu/lectures/ChaosTheory/James%20Gleick%20-%20Chaos.%20Making%20a%20new%20science.pdf">:butterfly: Chaos: Making a New Science by James Gleick (Book)</a>
   <br>
   <br>
-  <a href="https://coryarcangel.com">:white_square_button: Cory Arcangel (Artist)</a>
+  <a href="https://en.wikipedia.org/wiki/Eva_Hesse">:white_square_button: Eva Hesse (Artist)</a>
   <br>
   <br>
   <a href="https://www.newrafael.com/websites/">:art: Rafaël Rozendaal (Artist)</a>
   <br>
   <br>
-  <a href="https://refikanadol.com">:fireworks: Refik Anadol (Artist)</a>
+  <a href="http://zach.li">:fireworks: Zach Lieberman (Artist)</a>
   <br>
   <br>
   <a href="https://americanartist.us/work">:minidisc: American Artist (Artist)</a>
