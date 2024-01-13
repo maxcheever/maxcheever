@@ -14,7 +14,8 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
 <!--   <p>:office_worker: Software Engineering Internship at Tyler Technologies</p> -->
   <p>:foggy: Learning to work with openFrameworks</p>
   <p>:technologist: Google Foobar</p>
-  <p>:teacher: Courses in Operating Systems, Algorithms, Programming Language Design, Creative Coding, 3d Modeling, and Art Commentary</p>
+  <p>:bar_chart: Indepedent study on video processing and remix theory with http://navasse.net/docs/index.php<p>
+  <p>:teacher: Courses in Computation Theory, Game Theory, History and Theory of Digital Art, Contemporary Art Commentary, and Sociology</p>
   <p>:white_check_mark: LA(ing?) for CMPSC 132 - Data Structures at Penn State</p>
 </details>
 <details>
