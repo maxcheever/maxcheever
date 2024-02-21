@@ -12,9 +12,9 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <summary><b>Working On/Experimenting With...</b></summary>
   <p></p>
 <!--   <p>:office_worker: Software Engineering Internship at Tyler Technologies</p> -->
-  <p>:foggy: Learning to work with openFrameworks</p>
+  <p>:foggy: Learning to use Resolume Avenue and TouchDesigner</p>
   <p>:technologist: Google Foobar</p>
-  <p>:bar_chart: Indepedent study on video processing and remix theory with http://navasse.net/docs/index.php<p>
+  <p>:bar_chart: Indepedent study on image processing and remix theory with http://navasse.net/docs/index.php<p>
   <p>:teacher: Courses in Computation Theory, Game Theory, History and Theory of Digital Art, Contemporary Art Commentary, and Sociology</p>
   <p>:white_check_mark: LA(ing?) for CMPSC 132 - Data Structures at Penn State</p>
 </details>
@@ -36,7 +36,7 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <a href="https://en.wikipedia.org/wiki/Eva_Hesse">:white_square_button: Eva Hesse (Artist)</a>
   <br>
   <br>
-  <a href="https://www.newrafael.com/websites/">:art: Rafaël Rozendaal (Artist)</a>
+  <a href="https://en.wikipedia.org/wiki/Marcel_Duchamp">:art: Marcel Duchamp (Artist)</a>
   <br>
   <br>
   <a href="http://zach.li">:fireworks: Zach Lieberman (Artist)</a>
