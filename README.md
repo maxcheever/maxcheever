@@ -5,17 +5,16 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <summary><b>My Interests...</b></summary>
   <p></p>
   <p>:infinity: Mathematics and Computer Science</p>
-  <p>:foggy: Contemporary Art</p>
+  <p>:foggy: Modern, Postmodern, & Contemporary Art</p>
   <p>:technologist: Programming</p>
 </details>
 <details>
   <summary><b>Working On/Experimenting With...</b></summary>
   <p></p>
-<!--   <p>:office_worker: Software Engineering Internship at Tyler Technologies</p> -->
-  <p>:foggy: Learning to use Resolume Avenue and TouchDesigner</p>
+  <p>:office_worker: Software Engineering Internship at Tyler Technologies</p>
   <p>:technologist: Google Foobar</p>
-  <p>:bar_chart: Indepedent study on image processing and remix theory with http://navasse.net/docs/index.php<p>
-  <p>:teacher: Courses in Computation Theory, Game Theory, History and Theory of Digital Art, Contemporary Art Commentary, and Sociology</p>
+  <p>:bar_chart: Writing my first book<p>
+  <p>:teacher: Summer courses in Psychology and Computer Vision</p>
   <p>:white_check_mark: LA(ing?) for CMPSC 132 - Data Structures at Penn State</p>
 </details>
 <details>
