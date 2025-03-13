@@ -12,9 +12,9 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <summary><b>Working On/Experimenting With...</b></summary>
   <p></p>
 <!--   <p>:office_worker: Software Engineering Internship at Tyler Technologies</p> -->
-  <p>:teacher: Courses in Computer Graphics, Atmospheric Firing, and Artist Books</p>
+  <p>:teacher: Courses in Natural Language Processing, Digital Fabrication, History of Materials in Art, and Database Management</p>
   <p>:movie_camera: Independent study on digital and analog creative processes with <a href="https://www.tomlauerman.com">Professor Tom Lauerman</a></p>
-  <p>:art: The first half of my senior thesis in new media with <a href="http://navasse.net/docs/index.php">Professor Eduardo Navas</a><p>
+  <p>:art: My senior thesis show in new media with <a href="http://navasse.net/docs/index.php">Professor Eduardo Navas</a><p>
   <p>:white_check_mark: TA(ing?) for CMPSC 131 - Introduction to Computation</p>
 </details>
 <details>
@@ -36,9 +36,6 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <br>
   <br>
   <a href="https://en.wikipedia.org/wiki/Marcel_Duchamp">:art: Marcel Duchamp (Artist)</a>
-  <br>
-  <br>
-  <a href="http://zach.li">:fireworks: Zach Lieberman (Artist)</a>
   <br>
   <br>
   <a href="https://americanartist.us/work">:minidisc: American Artist (Artist)</a>
