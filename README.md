@@ -17,7 +17,7 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <p>:art: My senior thesis show in new media with <a href="http://navasse.net/docs/index.php">Professor Eduardo Navas</a><p>
   <p>:white_check_mark: TA(ing?) for CMPSC 131 - Introduction to Computation</p>
 </details>
-<details>
+<!-- <details>
   <summary><b>Some Stuff I Think Is Cool (Blogs, Books, etc)...</b></summary>
   <p></p>
   <a href="https://esoteric.codes">:computer: Esoteric Codes by Daniel Temkin (Blog)</a>
@@ -42,6 +42,6 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <br>
   <br>
   <a href="https://sougwen.com">:robot: Sougwen 愫君 Chung (Artist)</a>
-</details>
+</details> -->
 
 [![Language Stats](https://github-readme-stats-eta-orcin.vercel.app/api/top-langs/?username=maxcheever&exclude_repo=mern-exercise-tracker,practice-portfolio,chatcord,WeAreLiving-practice,counter-app,p5&langs_count=12&size_weight=0.2&count_weight=1&layout=donut-vertical&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&card_width=300&hide=html,css)](https://github-readme-stats-eta-orcin.vercel.app)
