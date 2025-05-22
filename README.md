@@ -1,7 +1,8 @@
 # Welcome!
 ### About Me
-Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. I'm currently in my fourth year at The Pennsylvania State University pursuing degrees in art and computer science, along with a minor in mathematics. Feel free to reach out to me through [my university email](mailto:mpc6231@psu.edu?subject=[GitHub]%20Max%20Cheever) or [my personal email](mailto:cheevermax@gmail.com)! Click any of the sentences below to learn more about me!
-<details>
+Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. I'm currently in my first year of my masters degree in Art, Culture, and Technology within the Massachussets Institute of Technology's Department of Architecture and Planning. Feel free to reach out to me through [my university email](mailto:max0@mit.edu?subject=[GitHub]%20Max%20Cheever) or [my personal email](mailto:cheevermax@gmail.com)! <!-- Click any of the sentences below to learn more about me!  -->
+
+<!-- <details>
   <summary><b>My Interests...</b></summary>
   <p></p>
   <p>:infinity: Mathematics and Computer Science</p>
@@ -12,11 +13,14 @@ Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. 
   <summary><b>Working On/Experimenting With...</b></summary>
   <p></p>
 <!--   <p>:office_worker: Software Engineering Internship at Tyler Technologies</p> -->
+<!-- 
   <p>:teacher: Courses in Natural Language Processing, Digital Fabrication, History of Materials in Art, and Database Management</p>
   <p>:movie_camera: Independent study on digital and analog creative processes with <a href="https://www.tomlauerman.com">Professor Tom Lauerman</a></p>
   <p>:art: My senior thesis show in new media with <a href="http://navasse.net/docs/index.php">Professor Eduardo Navas</a><p>
   <p>:white_check_mark: TA(ing?) for CMPSC 131 - Introduction to Computation</p>
 </details>
+-->
+
 <!-- <details>
   <summary><b>Some Stuff I Think Is Cool (Blogs, Books, etc)...</b></summary>
   <p></p>
