@@ -1,6 +1,6 @@
 # Welcome!
 ### About Me
-Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. I'm currently in my first year of my masters degree in Art, Culture, and Technology within the Massachussets Institute of Technology's Department of Architecture and Planning. Feel free to reach out to me through [my university email](mailto:max0@mit.edu?subject=[GitHub]%20Max%20Cheever) or [my personal email](mailto:cheevermax@gmail.com)! <!-- Click any of the sentences below to learn more about me!  -->
+Hey! My name is Max Cheever and I am a student and artist from Portland, Maine. I'm currently a fellow and masters student in the Art, Culture, and Technology program at MIT in Cambridge, Massachusetts. Feel free to reach out to me through [my university email](mailto:max0@mit.edu?subject=[GitHub]%20Max%20Cheever) or [my personal email](mailto:cheevermax@gmail.com)! <!-- Click any of the sentences below to learn more about me!  -->
 
 <!-- <details>
   <summary><b>My Interests...</b></summary>
